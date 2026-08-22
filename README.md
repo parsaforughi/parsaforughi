@@ -10,7 +10,7 @@
 Instagram media, in Telegram. Posts, reels, stories, highlights. Page connect.
 
 **[Bstory](https://github.com/parsaforughi/BOMA)**  
-Persian story studio. Fonts, type effects, stickers, RTL.
+Mobile story studio. Type, effects, stickers.
 
 ## Seylane
 
