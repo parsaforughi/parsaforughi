@@ -1,18 +1,14 @@
 <p align="center">
-  <img src="docs/og.png" alt="Parsa Forughi — Nouri · Seylane · Tools" width="100%">
+  <img src="docs/og.png" alt="Parsa Forughi" width="100%">
 </p>
 
-<p align="center">Product systems for brand houses.</p>
-
-## Nouri
+<p align="center">Selected work.</p>
 
 **[Reeldrive](https://github.com/parsaforughi/reeldrive)**  
 Instagram media, in Telegram. Posts, reels, stories, highlights. Page connect.
 
 **[Bstory](https://github.com/parsaforughi/BOMA)**  
 Mobile story studio. Type, effects, stickers.
-
-## Seylane
 
 **[MastermindOS](https://github.com/parsaforughi/mastermindos-dashboard)**  
 Dashboard for bots and automation. Monitor, measure, control.
@@ -28,10 +24,8 @@ Winter campaign portraits from a face and a product still.
 **[Collamin](https://github.com/parsaforughi/collamin-shelftalker)**  
 Shelftalker. Aging, with and without the product. Story-ready.
 
-**[VIP](https://github.com/parsaforughi/seylane-vip)**  
-VIP Passport. Telegram client and API.
-
-## Tools
+**[VIP Passport](https://github.com/parsaforughi/seylane-vip)**  
+Telegram client and API.
 
 **[Directam Pro](https://github.com/parsaforughi/directam-pro)**  
 Comment-to-DM on Meta’s official Instagram API.
