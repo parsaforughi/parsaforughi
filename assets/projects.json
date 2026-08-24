@@ -1,0 +1,47 @@
+{
+  "_comment": "Featured products, in README order. title is the public product name (never a client name). Stars/forks/language come live from the API; description here is what the card shows.",
+  "projects": [
+    {
+      "repo": "reeldrive",
+      "title": "Reeldrive",
+      "language": "Python",
+      "description": "Instagram media, in Telegram. Posts, reels, stories, highlights. Page connect."
+    },
+    {
+      "repo": "BOMA",
+      "title": "Bstory",
+      "language": "Dart",
+      "description": "Mobile story studio. Type, effects, stickers."
+    },
+    {
+      "repo": "seylane-vip",
+      "title": "VIP Passport",
+      "language": "TypeScript",
+      "description": "Telegram Mini App. Stamps, missions, referrals."
+    },
+    {
+      "repo": "collamin-shelftalker",
+      "title": "Collamin Shelftalker",
+      "language": "TypeScript",
+      "description": "Shelftalker. Aging, with and without the product. Story-ready."
+    },
+    {
+      "repo": "pixxel-uv-effect",
+      "title": "Pixxel UV",
+      "language": "JavaScript",
+      "description": "Front camera. UV inversion. Face Mesh."
+    },
+    {
+      "repo": "telegram-viral-bot",
+      "title": "Viral",
+      "language": "TypeScript",
+      "description": "Telegram search for high-view posts on Instagram, TikTok, and YouTube."
+    },
+    {
+      "repo": "affiliate-instagram-bot",
+      "title": "Affiliate",
+      "language": "TypeScript",
+      "description": "Instagram DM bot for affiliate recruitment."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated 0-100 for a product-engineer mix. Not competitive-programming scores. Edit anytime; the radar workflow redraws the SVG.",
+  "axes": [
+    { "label": "TypeScript", "value": 90 },
+    { "label": "Flutter",    "value": 82 },
+    { "label": "Python",     "value": 84 },
+    { "label": "Next.js",    "value": 78 },
+    { "label": "Node",       "value": 86 },
+    { "label": "Postgres",   "value": 70 },
+    { "label": "Telegram",   "value": 88 }
+  ]
+}
