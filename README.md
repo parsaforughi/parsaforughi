@@ -1,50 +1,215 @@
-<p align="center">
-  <img src="docs/og/header.png" alt="Parsa Forughi" width="720" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=2000&color=F3F2EE&center=true&vCenter=true&width=620&height=28&lines=I+build+products.;Telegram+bots.+Mobile+studios.+Live+camera.;Public+repos.+Shipped+work." alt="I build products." />
-</p>
+<!-- Dark studio banner. Typography only — no portrait. -->
+<img src="docs/og/header.png" alt="Parsa Forughi" width="720" />
 
-<p align="center">
-  <code>TypeScript</code>&nbsp;&nbsp;<code>Flutter / Dart</code>&nbsp;&nbsp;<code>Python</code>&nbsp;&nbsp;<code>Next.js</code>&nbsp;&nbsp;<code>Node</code>
-</p>
+<br>
 
----
+<a href="https://github.com/parsaforughi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1100&color=F3F2EE&center=true&vCenter=true&width=640&height=36&lines=Parsa+Forughi;I+ship+products.;Apps+and+automations.;Telegram+bots.+Mobile+studios.+Live+camera." alt="Parsa Forughi — I ship products." />
+</a>
 
-**[Reeldrive](https://github.com/parsaforughi/reeldrive)**  
-Instagram media, in Telegram. Posts, reels, stories, highlights. Page connect.
+<br>
 
-**[Bstory](https://github.com/parsaforughi/BOMA)**  
-Mobile story studio. Type, effects, stickers.
+<a href="https://t.me/parsaforughi"><img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=39D353" alt="Telegram" /></a>
+<a href="https://github.com/parsaforughi/parsa-resume"><img src="https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=github&logoColor=F3F2EE" alt="Resume" /></a>
 
-**[VIP Passport](https://github.com/parsaforughi/seylane-vip)**  
-Telegram Mini App. Stamps, missions, referrals.
-
-**[Collamin Shelftalker](https://github.com/parsaforughi/collamin-shelftalker)**  
-Shelftalker. Aging, with and without the product. Story-ready.
-
-**[Pixxel UV](https://github.com/parsaforughi/pixxel-uv-effect)**  
-Front camera. UV inversion. Face Mesh.
-
-**[Viral](https://github.com/parsaforughi/telegram-viral-bot)**  
-Telegram search for high-view posts on Instagram, TikTok, and YouTube.
-
-**[Affiliate](https://github.com/parsaforughi/affiliate-instagram-bot)**  
-Instagram DM bot for affiliate recruitment.
+</div>
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
+## `~/` whoami
 
-<p align="center">
-  <a href="https://t.me/parsaforughi">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/parsaforughi/parsa-resume">Resume</a>
-</p>
+```console
+$ cat about.txt
+```
+
+Hi, I'm **Parsa Forughi**. Product engineer. I ship apps and automations — Telegram products, mobile studios, live camera — then put the public work on GitHub.
+
+- Shipping **[Reeldrive](https://github.com/parsaforughi/reeldrive)**, **[Bstory](https://github.com/parsaforughi/BOMA)**, **[VIP Passport](https://github.com/parsaforughi/seylane-vip)**
+- Also shipping **[Collamin Shelftalker](https://github.com/parsaforughi/collamin-shelftalker)**, **[Pixxel UV](https://github.com/parsaforughi/pixxel-uv-effect)**, **[Viral](https://github.com/parsaforughi/telegram-viral-bot)**, **[Affiliate](https://github.com/parsaforughi/affiliate-instagram-bot)**
+- Fun fact: **Most of these started as a tool I needed that week.**
+
+<br>
+
+<div align="center">
+
+## `~/` toolbox
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,dart,flutter,react,nextjs,nodejs,postgres,docker,git,github,linux,vscode&perline=7" alt="toolbox" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` skill radar
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<!-- Self-rated radar — edit assets/skills.json, the workflow redraws it -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<!-- Live radar from language byte counts across public repos -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
+</picture>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` contribution calendar
+
+<!-- Isometric calendar — .github/workflows/metrics.yml -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
+<br><br>
+
+<!-- Snake — Platane/snk, .github/workflows/generate-snake.yml, output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/parsaforughi/parsaforughi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parsaforughi/parsaforughi/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/parsaforughi/parsaforughi/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` the numbers
+
+<!-- Generated by scripts/cards.py into this repo. Files here, not a public badge host. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` selected work
+
+<!-- Cards generated by scripts/cards.py from assets/projects.json. -->
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/parsaforughi/reeldrive">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-reeldrive-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-reeldrive-light.svg">
+      <img src="assets/card-reeldrive-dark.svg" width="420" alt="Reeldrive">
+    </picture>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/parsaforughi/BOMA">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-BOMA-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-BOMA-light.svg">
+      <img src="assets/card-BOMA-dark.svg" width="420" alt="Bstory">
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/parsaforughi/seylane-vip">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-seylane-vip-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-seylane-vip-light.svg">
+      <img src="assets/card-seylane-vip-dark.svg" width="420" alt="VIP Passport">
+    </picture>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/parsaforughi/collamin-shelftalker">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-collamin-shelftalker-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-collamin-shelftalker-light.svg">
+      <img src="assets/card-collamin-shelftalker-dark.svg" width="420" alt="Collamin Shelftalker">
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/parsaforughi/pixxel-uv-effect">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-pixxel-uv-effect-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-pixxel-uv-effect-light.svg">
+      <img src="assets/card-pixxel-uv-effect-dark.svg" width="420" alt="Pixxel UV">
+    </picture>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/parsaforughi/telegram-viral-bot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-telegram-viral-bot-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-telegram-viral-bot-light.svg">
+      <img src="assets/card-telegram-viral-bot-dark.svg" width="420" alt="Viral">
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/parsaforughi/affiliate-instagram-bot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-affiliate-instagram-bot-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-affiliate-instagram-bot-light.svg">
+      <img src="assets/card-affiliate-instagram-bot-dark.svg" width="420" alt="Affiliate">
+    </picture>
+  </a>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<sub>
+
+| project | live | stack |
+|---|---|---|
+| **[Reeldrive](https://github.com/parsaforughi/reeldrive)** | — | `Python` `Telegram` |
+| **[Bstory](https://github.com/parsaforughi/BOMA)** | — | `Flutter` `Dart` |
+| **[VIP Passport](https://github.com/parsaforughi/seylane-vip)** | — | `TypeScript` `JavaScript` |
+| **[Collamin Shelftalker](https://github.com/parsaforughi/collamin-shelftalker)** | — | `Next.js` `TypeScript` |
+| **[Pixxel UV](https://github.com/parsaforughi/pixxel-uv-effect)** | — | `JavaScript` |
+| **[Viral](https://github.com/parsaforughi/telegram-viral-bot)** | — | `TypeScript` `Node` |
+| **[Affiliate](https://github.com/parsaforughi/affiliate-instagram-bot)** | [affiliate-instagram-bot.vercel.app](https://affiliate-instagram-bot.vercel.app) | `TypeScript` `JavaScript` |
+
+</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub><code>~/ eof</code></sub>
+
+</div>
