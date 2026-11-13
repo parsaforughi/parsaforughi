@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Dark studio banner. Typography only — no portrait. -->
-<img src="docs/og/header.png" alt="Parsa Forughi" width="720" />
+<!-- PORTRAIT — scripts/dotify.py from assets/portrait-src.jpg (his GitHub avatar).
+     Colour mode, one file for both GitHub themes. Regenerate with:
+       python scripts/dotify.py assets/portrait-src.jpg -o assets/portrait \
+         --cols 100 --equalize --detail 0.5 --color --invert --square -->
+<img src="assets/portrait.svg" width="300" alt="Parsa Forughi, rendered as a dot matrix" />
 
 <br>
 
